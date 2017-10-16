@@ -1,0 +1,6 @@
+C:\Users\davide.giulianini\Documents\Visual Studio 2017\Projects\Sveglia\Sveglia\bin\Debug\Sveglia.exe.config
+C:\Users\davide.giulianini\Documents\Visual Studio 2017\Projects\Sveglia\Sveglia\bin\Debug\Sveglia.exe
+C:\Users\davide.giulianini\Documents\Visual Studio 2017\Projects\Sveglia\Sveglia\bin\Debug\Sveglia.pdb
+C:\Users\davide.giulianini\Documents\Visual Studio 2017\Projects\Sveglia\Sveglia\obj\Debug\Sveglia.csprojResolveAssemblyReference.cache
+C:\Users\davide.giulianini\Documents\Visual Studio 2017\Projects\Sveglia\Sveglia\obj\Debug\Sveglia.exe
+C:\Users\davide.giulianini\Documents\Visual Studio 2017\Projects\Sveglia\Sveglia\obj\Debug\Sveglia.pdb
